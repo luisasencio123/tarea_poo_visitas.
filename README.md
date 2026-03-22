@@ -29,11 +29,9 @@ visitas_app/
 ## 🚀 Cómo ejecutar
 
 1. Clonar el repositorio:
-   git clone https://github.com/TU-USUARIO/tarea_poo_visitas.git
-
+   git clone (https://github.com/luisasencio123/tarea_poo_visitas..git)
 2. Ingresar a la carpeta:
    cd visitas_app
-
 3. Ejecutar el programa:
    python main.py
 
